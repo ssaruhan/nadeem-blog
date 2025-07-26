@@ -1,9 +1,7 @@
 ---
 layout: layouts/base.njk
 eleventyNavigation:
-  key: About Me
+  key: About
   order: 3
 ---
-# About Me
-
-I am a person that writes stuff.
+This website is a blog for Nadeem's foraging explorations.
