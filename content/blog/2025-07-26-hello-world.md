@@ -18,6 +18,4 @@ test test...
 
 ![](/public/img/original_b69dead90f3376025195ae1c99916849.jpg)
 
-![](/public/img/original_b69dead90f3376025195ae1c99916849.jpg)
-
 You can upload images, as shown above.
