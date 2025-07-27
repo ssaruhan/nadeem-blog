@@ -13,7 +13,7 @@ content:
       - { name: draft, label: Draft, type: boolean }
       - { name: tags, label: Tags, type: string, list: true }
       - { name: body, label: Body, type: rich-text }
-      - { name: gallery, label: Gallery, type: image, multiple: true }
+      - { name: gallery, label: Gallery, type: image, options.multiple: true }
   - name: about
     label: About page
     type: file
